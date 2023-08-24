@@ -1,3 +1,5 @@
+# Ucgen-Kenar-Secimi
+
 * n elemanlı bir dizide,
 * değerleri 0 ila 1000 arasında değişen,
 * üçgen kenarı olmaya aday uzunlukları kullanıcıdan komut satırı aracılığıyla alan,
